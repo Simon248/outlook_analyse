@@ -1,0 +1,11 @@
+{
+    "ne_doit_pas_contenir": [
+        "annul",
+        "perso",
+        "teletra",
+        "télétra",
+        "téletra",
+        "congé",
+        "coupure elec"
+    ]
+}
