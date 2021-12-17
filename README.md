@@ -3,7 +3,7 @@ deposit contains two folder to extract and analyse data from your outlook applic
  - mail_extract.py
  - outlook_calendar.py 
  
- IN ORDER TO WORK YOU SHOULD HAVE OUTLLOK RUNNING ON YOUR PC DURING EXECUTION.
+ IN ORDER TO WORK YOU SHOULD HAVE OUTLOOK RUNNING ON YOUR PC DURING EXECUTION.
 
 ## mail_extract:
 this file allows you to extract all your mails in an Excel document with columns: (sender, content, categorie, date, week, year)
